@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository is for the purposes of refactoring code to make it more accessible for the fictisious marking company, Horiseon. Horiseon would like their page to be more accessible to more poeple to again a larger reach. With this goal I have refactored the code to meet accesibilty standards.
+This repository is for the purposes of refactoring code to make it more accessible for the fictitious marking company, Horiseon. Horiseon would like their page to be more accessible to more people and have a more extensive reach. With this goal, I have refactored the code to meet accessibility standards.
 
 [Visit the deployed Site](https://beckamcnally.github.io/refactoring-Horiseon-site/)
 
@@ -13,7 +13,7 @@ This repository is for the purposes of refactoring code to make it more accessib
 * [Learning Points](learning-points)
 * [Author Info](author-info)
 
-## Tochnology Used
+## Technology Used
 
 | Technoly Used     | Resource URL      |
 | -------- |:---------:|
@@ -23,17 +23,21 @@ This repository is for the purposes of refactoring code to make it more accessib
 
 ## Code Refactor Example
 
+To meet accessibility standards alt attributes needed to be present on all img elements. 
+
 Original code
 ```html
  <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
 ```
+Throughout the index.html alt attributes have now been added on all img elements with appropriate descriptions. 
+
 Changed Code
 ```html
 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="image of a computer work area with a note book, cup of coffee, cup of pens, and a magnifying glass on a laptop"/>
 ```
+Semantic html adds meaning to elements throughout the index.html, allowing the code to be read more easily read by humans and software. 
 
-
-Origianl Code 
+Original Code 
 ```html
 <div class="benefit-lead">
             <h3>Lead Generation</h3>
@@ -43,6 +47,8 @@ Origianl Code
             </p>
         </div>
 ```
+As appropriate non-semantic tags have been changed to meet accessibility standards. 
+
 Changed code
 ```html
 <article class="benefits-info">
@@ -69,3 +75,4 @@ Changed code
 
 * [LinkedIn](linkedin.com/in/becka-mcnally-21520670)
 * [Github](https://github.com/beckamcnally)
+
