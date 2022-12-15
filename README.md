@@ -4,10 +4,14 @@
 
 ## Description
 
-[Visit the deployed Site] (https://beckamcnally.github.io/refactoring-Horiseon-site/)
+[Visit the deployed Site](https://beckamcnally.github.io/refactoring-Horiseon-site/)
 
 ## Table of Contents
 
+* [Technology Uded](#technology-used)
+* [Code Refactoring Example](code-refactoring-example)
+* [Learning Points](learning-points)
+* [Author Info](author-info)
 
 ## Tochnology Used
 
