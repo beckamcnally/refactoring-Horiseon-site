@@ -1,8 +1,8 @@
 # Refactoring Horiseon Site
 
-
-
 ## Description
+
+This repository is for the purposes of refactoring code to make it more accessible for the fictisious marking company, Horiseon. Horiseon would like their page to be more accessible to more poeple to again a larger reach. With this goal I have refactored the code to meet accesibilty standards.
 
 [Visit the deployed Site](https://beckamcnally.github.io/refactoring-Horiseon-site/)
 
