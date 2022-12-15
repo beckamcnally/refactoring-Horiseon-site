@@ -23,6 +23,37 @@
 
 ## Code Refactor Example
 
+Original code
+```html
+ <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
+```
+Changed Code
+```html
+<img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="image of a computer work area with a note book, cup of coffee, cup of pens, and a magnifying glass on a laptop"/>
+```
+
+
+Origianl Code 
+```html
+<div class="benefit-lead">
+            <h3>Lead Generation</h3>
+            <img src="./assets/images/lead-generation.png" />
+            <p>
+                Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
+            </p>
+        </div>
+```
+Changed code
+```html
+<article class="benefits-info">
+            <h3>Lead Generation</h3>
+          <figure> 
+            <img src="./assets/images/lead-generation.png" alt="Icon in the shape of a light buld. Starting at the top it has the top half of a sun, then narrows with an arrow pointing to a dallar sign." />
+          </figure>  
+            <p>
+                Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
+            </p>
+        </article>
 
 ## Learning Points
 
