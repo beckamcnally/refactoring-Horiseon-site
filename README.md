@@ -20,7 +20,6 @@
 | Git 
 ## Code Refactor Example
 
-## Usage 
 
 ## Learning Points
 
