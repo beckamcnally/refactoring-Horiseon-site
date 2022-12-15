@@ -29,10 +29,9 @@
 * Accessibility Standards 
 * Refactoring
 
+## Author Info 
 
 ### Becka McNally
 
 * [LinkedIn](linkedin.com/in/becka-mcnally-21520670)
 * [Github](https://github.com/beckamcnally)
-## Author Info 
-
