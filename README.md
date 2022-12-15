@@ -54,6 +54,7 @@ Changed code
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
             </p>
         </article>
+```
 
 ## Learning Points
 
