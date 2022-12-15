@@ -1,5 +1,14 @@
 # Refactoring Horiseon Site
 
+
+
+## Description
+
+[Visit the deployed Site] (https://beckamcnally.github.io/refactoring-Horiseon-site/)
+
+## Table of Contents
+
+
 ## Tochnology Used
 
 | Technoly Used Resource URL
@@ -9,18 +18,16 @@
 | CSS
 
 | Git 
-
-## Description
-
-[Visit the deployed Site] (https://beckamcnally.github.io/refactoring-Horiseon-site/)
-
-## Table of Contents
-
 ## Code Refactor Example
 
 ## Usage 
 
 ## Learning Points
+
+* Semantic HTML 
+* Markdown
+* Accessibility Standards 
+* Refactoring
 
 
 ### Becka McNally
