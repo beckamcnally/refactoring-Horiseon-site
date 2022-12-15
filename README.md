@@ -8,20 +8,19 @@
 
 ## Table of Contents
 
-* [Technology Uded](#technology-used)
+* [Technology Used](#technology-used)
 * [Code Refactoring Example](code-refactoring-example)
 * [Learning Points](learning-points)
 * [Author Info](author-info)
 
 ## Tochnology Used
 
-| Technoly Used Resource URL
+| Technoly Used     | Resource URL      |
+| -------- |:---------:|
+| HTML  | [https://www.w3schools.com/html/default.asp]
+| CSS   | [https://www.w3schools.com/css/default.asp]
+| Git   | [https://docs.github.com/en]
 
-| HTML
-
-| CSS
-
-| Git 
 ## Code Refactor Example
 
 
