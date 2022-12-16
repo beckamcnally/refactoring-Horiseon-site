@@ -4,12 +4,15 @@
 <head>
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
+    <!-- added a detailed title -->
     <title>Horiseon: Homepage</title>
 </head>
 
 <body>
+    <!-- changed div with class of header to a header tag followed by appropriate closing tag and deleted header class and updated CSS -->
     <header>
         <h1>Hori<span class="seo">seo</span>n</h1>
+         <!-- changed div to a nav tag followed by appropriate closing tag and deleted header class and updated CSS -->
         <nav>
             <ul>
                 <li>
@@ -24,13 +27,17 @@
             </ul>
         </nav>
     </header>
-
-    <div class="hero" title="Main introduction picture on the website. People gathered around a conferance table in a meeting fasion with papers scattered on the desk."></div>
-
+    <!-- added a title to the div hero that contains an img in css and used the title in place of an alt -->
+    <div class="hero" title="Main introduction picture on the website. People gathered around a conference table in a meeting fashion with papers scattered on the desk."></div>
+    <!-- changed div to a section tag -->
     <section class="content">
-        <article class="content-info">
-
+        <!-- changed div to a article tag -->
+        <article id="search-engine-optimization" class="content-info">
+          <!-- changed classes search-engine-optimization, online-reputation-management, social-media-marketing to content-info and updated the CSS   -->
+          <!-- added id to make the link from navigation work -->
+          <!-- added the figure tag to encase the image tag for a better read for screen readers -->   
           <figure>
+            <!--add alt attributes to all img tags -->
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="image of a computer work area with a note book, cup of coffee, cup of pens, and a magnifying glass on a laptop"/>
           </figure>
             <h2>Search Engine Optimization</h2>
@@ -41,17 +48,17 @@
 
         <article id="online-reputation-management" class="content-info">
            <figure> 
-            <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Image of someone looking at something on thier computer about reputation with a graph. They are also on their phone."/>
+            <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="Image of someone looking at something on their computer about reputation with a graph. They are also on their phone."/>
           </figure>  
             <h2>Online Reputation Management</h2>
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
             </p>
         </article>
-
+    
         <article id="social-media-marketing" class="content-info">
           <figure>  
-            <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="People gathered around a table with onlyu their hands showing. There are thought bubbles on the table with words such as share, tweet, media, and like. There are also smaller bubbles with icons such as camera, phone, music symbol, and a light buld. " />
+            <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="People gathered around a table with only their hands showing. There are thought bubbles on the table with words such as share, tweet, media, and like. There are also smaller bubbles with icons such as camera, phone, music symbol, and a light bulb. " />
           </figure>  
             <h2>Social Media Marketing</h2>
             <p>
@@ -62,10 +69,11 @@
     </section>
 
     <aside class="benefits">
+        <!-- changed classes benefit-lead, benefit-brand, benefit-cost to benefits-info and updated the CSS   -->
         <article class="benefits-info">
             <h3>Lead Generation</h3>
           <figure> 
-            <img src="./assets/images/lead-generation.png" alt="Icon in the shape of a light buld. Starting at the top it has the top half of a sun, then narrows with an arrow pointing to a dallar sign." />
+            <img src="./assets/images/lead-generation.png" alt="Icon in the shape of a light bulb. Starting at the top it has the top half of a sun, then narrows with an arrow pointing to a dollar sign." />
           </figure>  
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
@@ -74,7 +82,7 @@
         <article class="benefits-info">
             <h3>Brand Awareness</h3>
           <figure>  
-            <img src="./assets/images/brand-awareness.png" alt="Icon in the shape of a person from the shoulders up. Instead of a head they have a lightbuld, and it has a tie on. One each side of the lightbuld head there are three half circles on each side and they pergresivly get larger as they go away from the head." />
+            <img src="./assets/images/brand-awareness.png" alt="Icon in the shape of a person from the shoulders up. Instead of a head they have a lightbulb, and it has a tie on. One each side of the lightbulb head there are three half circles on each side and they progressively get larger as they go away from the head." />
           </figure>  
             <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
@@ -83,7 +91,7 @@
         <article class="benefits-info">
             <h3>Cost Management</h3>
           <figure>  
-            <img src="./assets/images/cost-management.png" alt="Icon with a back image of a gear and three circles infront with dollar signs in them." />
+            <img src="./assets/images/cost-management.png" alt="Icon with a back image of a gear and three circles in front with dollar signs in them." />
           </figure>  
             <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
@@ -92,6 +100,7 @@
     </aside>
 
     <footer>
+        <!-- changed h2 to h4 in order that it falls on the page -->
         <h4>Made with ❤️️ by Horiseon</h4>
         <p>
             &copy; 2019 Horiseon Social Solution Services, Inc.

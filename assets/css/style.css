@@ -8,7 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
-header {
+/* changed all header class selectors to header element selectors to match updates to index.html */
+header { 
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* changed all div slectors to nav to match updates to index.html */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -86,22 +88,26 @@ p {
     background-color: #2589bd;
 }
 
+/* changed .benefit-lead to .benefits-into and deleted .benefit-brand and .benefit-cost as they then became redundant*/
 .benefits-info {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* changed .benefit-lead h3 to .benefits-into h3 and deleted .benefit-brand h3 and .benefit-cost h3 as they then became redundant*/
 .benefits-info h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* changed .benefit-lead img to .benefits-into img and deleted .benefit-brand img and .benefit-cost img as they then became redundant*/
 .benefits-info img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* changed .search-engine-optimization to .content-into and deleated .online-reputation-management and .social-media-marketing as they then became redundant*/
 .content-info {
     margin-bottom: 20px;
     padding: 50px;
@@ -111,15 +117,18 @@ p {
     color: #ffffff;
 }
 
+/* changed .search-engine-optimization img to .content-into img and deleated .online-reputation-management img and .social-media-marketing img as they then became redundant*/
 .content-info img {
     max-height: 200px;
 }
 
+/* changed .search-engine-optimization h2 to .content-into h2 and deleated .online-reputation-management h2 and .social-media-marketing h2 as they then became redundant*/
 .content-info h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* changed all footer class selectors to element selectors to match index.html */
 footer {
     padding: 30px;
     clear: both;
