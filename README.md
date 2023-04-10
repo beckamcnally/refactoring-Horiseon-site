@@ -9,17 +9,18 @@ This repository is for the purposes of refactoring code to make it more accessib
 ## Table of Contents
 
 * [Technology Used](#technology-used)
-* [Code Refactoring Example](code-refactoring-example)
-* [Learning Points](learning-points)
-* [Author Info](author-info)
+* [Code Refactor Example](#code-refactor-example)
+* [Learning Points](#learning-points)
+* [Author Info](#author-info)
+* [Credits](#credits)
 
 ## Technology Used
 
 | Technoly Used     | Resource URL      |
 | -------- |:---------:|
-| HTML  | [https://www.w3schools.com/html/default.asp]
-| CSS   | [https://www.w3schools.com/css/default.asp]
-| Git   | [https://docs.github.com/en]
+| HTML  | [https://www.w3schools.com/html/default.asp](https://www.w3schools.com/html/default.asp)
+| CSS   | [https://www.w3schools.com/css/default.asp](https://www.w3schools.com/css/default.asp)
+| Git   | [https://docs.github.com/en](https://docs.github.com/en)
 
 ## Code Refactor Example
 
@@ -76,3 +77,6 @@ Changed code
 * [LinkedIn](linkedin.com/in/becka-mcnally-21520670)
 * [Github](https://github.com/beckamcnally)
 
+## Credits
+
+This project was built using starter code provided by UC Berkeley Coding Bootcamp Extension. The original starter code can be found at [https://github.com/coding-boot-camp/urban-octo-telegram](https://github.com/coding-boot-camp/urban-octo-telegram).
